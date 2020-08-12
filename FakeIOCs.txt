@@ -1,3 +1,4 @@
 sophostest.com
-10.254.10.1
+10.254.10.100
+1.1.1.1
 office.com
