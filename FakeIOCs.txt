@@ -1,6 +1,6 @@
-sophostest.com
-10.254.10.100
-1.1.1.1
-office.com
-99.84.222.123
-13.107.6.156
+domain,sophostest.com,sophos test
+ip,10.254.10.100
+ip,1.1.1.1
+domain,office.com
+ip99.84.222.123
+ip,13.107.6.156
