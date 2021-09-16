@@ -3,3 +3,4 @@ domain,office.com
 ip,99.84.222.123
 ip,13.107.6.156
 domain,threatmenu.naseeast.com
+www.totallynotsketchysite.com
